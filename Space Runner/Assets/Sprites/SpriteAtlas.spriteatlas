@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8e20b67d19123e544a7599b53bcc2fb0, type: 3}
+    - {fileID: 2800000, guid: 948887b3cff1bec4288a3b91259d55ca, type: 3}
+    - {fileID: 2800000, guid: a3d40439b7206864190eb85eb99cb80f, type: 3}
+    - {fileID: 2800000, guid: 6d2ddb6ef43c7944cabd44c0421397fa, type: 3}
+    - {fileID: 2800000, guid: c7b2aea66efa843459894bfef662d68f, type: 3}
+    - {fileID: 2800000, guid: b78599d5f91a1e64f9541bf590d4ee5f, type: 3}
+    - {fileID: 2800000, guid: feed6e45d9283da47ad15dee0d52951a, type: 3}
+    - {fileID: 2800000, guid: 56f50d834d08e3647a54334d533ff789, type: 3}
+    - {fileID: 2800000, guid: 2ccf3461ebc39a6408ac3d4f869c1ebe, type: 3}
+    - {fileID: 2800000, guid: 48289b6b200fed64598d773bfeaec2c6, type: 3}
+    - {fileID: 2800000, guid: a924b6e7a90441243b8e33de9370762e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2ccf3461ebc39a6408ac3d4f869c1ebe, type: 3}
+  - {fileID: 21300000, guid: 56f50d834d08e3647a54334d533ff789, type: 3}
+  - {fileID: 21300000, guid: 948887b3cff1bec4288a3b91259d55ca, type: 3}
+  - {fileID: 21300000, guid: feed6e45d9283da47ad15dee0d52951a, type: 3}
+  - {fileID: 21300000, guid: b78599d5f91a1e64f9541bf590d4ee5f, type: 3}
+  - {fileID: 21300000, guid: c7b2aea66efa843459894bfef662d68f, type: 3}
+  - {fileID: 21300000, guid: a924b6e7a90441243b8e33de9370762e, type: 3}
+  - {fileID: 21300000, guid: a3d40439b7206864190eb85eb99cb80f, type: 3}
+  - {fileID: 21300000, guid: 48289b6b200fed64598d773bfeaec2c6, type: 3}
+  - {fileID: 21300000, guid: 8e20b67d19123e544a7599b53bcc2fb0, type: 3}
+  - {fileID: 21300000, guid: 6d2ddb6ef43c7944cabd44c0421397fa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SpaceShip2
+  - SpaceShip1
+  - asteroid2
+  - Bullet
+  - asteroid_particle
+  - asteroid5
+  - Ramk
+  - asteroid3
+  - turrelEnemy
+  - asteroid1
+  - asteroid4
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
